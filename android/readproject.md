@@ -61,6 +61,18 @@ TeaClassTaskActivity---作业----TaskFragment---TaskPresenter(不只是作业还
 
 
 
+FirstPageActivity----MainActivity---MainPresenter---HttpManager
+这些我在代码里模拟了用户后，可以开始玩了
+
+AccountEvent--- 注册了事件---eventbus---1定义一个消息类2在需要订阅事件的地方注册3发送消息4处理消息----记住这个步骤----
+
+
+
+## 发现问题
+*　iv.setPadding(10,0,0,0);　像这样的屏幕适配的没考虑到
+*　
+
+
 
 
 
