@@ -56,3 +56,11 @@ ClassAlbumListActivity----相册的列表viewpager----
 
 AlbumListFragment----相册的列表viewpager放fragment的地方
 
+
+TeaClassTaskActivity---作业----TaskFragment---TaskPresenter(不只是作业还有通知；删除通知，删除作业，获取已发通知，获取通知，获取作业)
+
+
+
+
+
+
