@@ -67,6 +67,15 @@ FirstPageActivity----MainActivity---MainPresenter---HttpManager
 AccountEvent--- 注册了事件---eventbus---1定义一个消息类2在需要订阅事件的地方注册3发送消息4处理消息----记住这个步骤----
 
 
+ChatRoomDetailActivity---聊天室群信息群的详情页---获取了一次群成员的信息----SharePrefConstant.ChatUserPic
+
+ChatFragment---ChatPresenter---查询联系人列表---联系人详情
+
+ChatActivity---
+
+ContactsFragment---会话，通讯录的fragment---
+
+解决问题，在chatFragment里面重新获取一次用户，头像就刷新了
 
 ## 发现问题
 *　iv.setPadding(10,0,0,0);　像这样的屏幕适配的没考虑到
