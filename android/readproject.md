@@ -70,7 +70,7 @@ AccountEvent--- 注册了事件---eventbus---1定义一个消息类2在需要订
 
 ## 发现问题
 *　iv.setPadding(10,0,0,0);　像这样的屏幕适配的没考虑到
-*　
+*　@mipmap/bt_navbar_back_normal
 
 
 
