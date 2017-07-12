@@ -83,8 +83,38 @@ public class MainActivity extends AppCompatActivity {
         b1.title = "水电";
         b1.content = "水电维修";
         b1.res = R.mipmap.ic_launcher;
-        b1.className = "Test";//水电工
+        b1.className = "Plumber";//水电工
         menus.add(b1);
+        MenuBean b2 = new MenuBean();
+        b2.title = "疏通";
+        b2.content = "疏通下水道";
+        b2.res = R.mipmap.ic_launcher;
+        b2.className = "Dredge";
+        menus.add(b2);
+        MenuBean b3 = new MenuBean();
+        b3.title = "保洁";
+        b3.content = "家政保洁";
+        b3.res = R.mipmap.ic_launcher;
+        b3.className = "Clean";
+        menus.add(b3);
+        MenuBean b4 = new MenuBean();
+        b4.title = "开锁";
+        b4.content = "开锁换锁";
+        b4.res = R.mipmap.ic_launcher;
+        b4.className = "Lock";
+        menus.add(b4);
+        MenuBean b5 = new MenuBean();
+        b5.title = "物业";
+        b5.content = "物业电话";
+        b5.res = R.mipmap.ic_launcher;
+        b5.className = "Property";
+        menus.add(b5);
+        MenuBean b6 = new MenuBean();
+        b6.title = "快递";
+        b6.content = "快递电话";
+        b6.res = R.mipmap.ic_launcher;
+        b6.className = "Express";
+        menus.add(b6);
     }
     private void initView() {
 
