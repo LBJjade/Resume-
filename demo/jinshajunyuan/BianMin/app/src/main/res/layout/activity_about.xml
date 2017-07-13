@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.manu.bianmin.ListActivity">
+    <!--<RelativeLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+        <!--<android.support.design.widget.AppBarLayout-->
+            <!--android:id="@+id/appBarLayout"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:theme="@style/AppTheme.AppBarOverlay">-->
+
+            <!--<android.support.v7.widget.Toolbar-->
+                <!--android:id="@+id/toolbar"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="?attr/actionBarSize"-->
+                <!--android:background="?attr/colorPrimary"-->
+                <!--app:popupTheme="@style/AppTheme.PopupOverlay" />-->
+
+        <!--</android.support.design.widget.AppBarLayout>-->
+
+        <GridView
+            android:id="@+id/gv_index_fun"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:horizontalSpacing="15dp"
+            android:numColumns="1"
+            android:padding="15dp"
+            android:scrollbars="none"
+            android:verticalSpacing="15dp"
+            android:visibility="gone"></GridView>
+<!--    </RelativeLayout>
+  android:layout_below="@id/appBarLayout"-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="复制链接到浏览器下载"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:textSize="13sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="https://www.pgyer.com/2ACA"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:textSize="13sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="或扫描二维码下载"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:textSize="13sp"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/code_420"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="若二维码或链接过期,加微信号android_manuchen获取"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:layout_margin="10dp"/>
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

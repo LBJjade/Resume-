@@ -17,7 +17,7 @@
         android:id="@+id/gv_index_fun"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="center"
+        android:gravity="start"
         android:horizontalSpacing="15dp"
         android:numColumns="2"
         android:padding="15dp"
