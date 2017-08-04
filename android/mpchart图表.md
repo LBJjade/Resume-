@@ -17,4 +17,7 @@ https://jitpack.io/com/github/PhilJay/MPAndroidChart/v2.2.5/javadoc/
 
 http://blog.csdn.net/guijiaoba/article/details/41444697
 
+## 一个柱状图
+http://blog.csdn.net/zhangphil/article/details/47727913#comments
+
 ## 其他的请看源码的案例
