@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">MyMessageDemo</string>
+
+    <string name="progress_dialog_msg">正在加载，请稍后...</string>
+
+    <string name="error_nodata">暂时没有您要的数据咯！</string>
+
+    <string name="prompt_account">用户名</string>
+    <string name="prompt_password">密码</string>
+    <string name="title_password">请输入您的密码</string>
+
+    <string name="warm_prompt">温馨提示</string>
+    <string name="exit_warm">即将退出，是否继续?</string>
+    <string name="extrusion_warm">您的账户在其他设备上登录</string>
+    <string name="exit_app">退出应用</string>
+    <string name="reload_app">重新登录</string>
+    <string name="cancel">取消</string>
+    <string name="search_hint">请输入搜索内容</string>
+
+    <string name="back">返回</string>
+    <string name="home">首页</string>
+    <string name="agency_task">代办任务</string>
+    <string name="one_query">一键查询</string>
+    <string name="check">考核统计</string>
+    <string name="exception_type">异常类型</string>
+    <string name="done_work">完成任务</string>
+    <string name="temp_storage">暂存</string>
+    <string name="user_callback">用户反馈</string>
+    <string name="user_about">关于</string>
+    <string name="user_set">设置</string>
+
+    <string name="area_name">台区名称</string>
+    <string name="change_type">更换类型</string>
+    <string name="work_quantity">工作数量</string>
+    <string name="completed">已完成</string>
+    <string name="uncompleted">未完成</string>
+    <string name="meter">电能表</string>
+    <string name="meter_box">表箱</string>
+    <string name="meter_all">整体</string>
+
+    <string name="area_list">台区列表</string>
+    <string name="area_name_colon">台区名称 : </string>
+    <string name="user_name_colon">用户名称 : </string>
+    <string name="user_phone_colon">用户电话 : </string>
+    <string name="user_no_colon">用户编号 : </string>
+    <string name="asset_no_colon">资产编号 : </string>
+    <string name="user_addr_colon">用电地址 : </string>
+    <string name="work_type_all">整体(电能表、表箱)</string>
+    <string name="work_type_meter">更换电能表</string>
+    <string name="work_type_meter_box">更换表箱</string>
+    <string name="navigate">导航点击</string>
+    <string name="check_user_detail">查看用户详情</string>
+    <string name="write_table">录入表</string>
+
+
+    <string name="old_meter_box">旧表箱</string>
+    <string name="box_info">表箱信息</string>
+    <string name="box_stamp">表箱封印 : </string>
+    <string name="scan_asset_no">扫描资产编号</string>
+    <string name="scan">扫描</string>
+    <string name="box_pic">表箱图片 : </string>
+    <string name="asset_no">资产编号</string>
+    <string name="model_no">型号 : </string>
+    <string name="forward_active_power">正向有功电量</string>
+    <string name="factory">生产厂家 : </string>
+    <string name="spec">规格 : </string>
+    <string name="cabinet_material">箱体材质 : </string>
+    <string name="scan_no">扫描封印号</string>
+    <string name="product_date">生产日期 : </string>
+    <string name="protect_level">防护等级 : </string>
+
+    <string name="write_old_meter">录入旧表</string>
+    <string name="base_info">基本信息</string>
+    <string name="clear_all">清空所有</string>
+    <string name="forward_active_power_colon">正向有功总电量 : </string>
+    <string name="forward_active_power_no_colon">正向有功总电量</string>
+    <string name="seal_number">封印号 : </string>
+    <string name="deivce_pic">设备照片</string>
+    <string name="meter_pic">电能表图片 : </string>
+    <string name="remark">备注</string>
+
+
+    <string name="take_pic">拍照</string>
+    <string name="take_pic_all">请拍整体电表照</string>
+    <string name="take_pic_words">注:请施工人员必须装完电能表和表箱后进行拍摄上传</string>
+
+    <string name="back_list">返回完成列表</string>
+    <string name="done">录入表提交完成</string>
+    <string name="not_null">必填项不能为空</string>
+    <string name="scan_title">扫描</string>
+    <string name="photo_title">拍照识别</string>
+    <string name="photo_view">识别</string>
+    <string name="loading">正在加载…</string>
+    <string name="no_location">附近没有其它地点</string>
+    <string name="map_pick">地图选点</string>
+</resources>

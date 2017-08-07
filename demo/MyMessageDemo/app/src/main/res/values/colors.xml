@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_333">#333333</color>
+    <color name="color_666">#666666</color>
+    <color name="color_999">#999999</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_d2ccc5">#d2ccc5</color>
+    <color name="color_d2d2d2">#d2d2d2</color>
+    <color name="color_aaa">#aaa</color>
+    <color name="color_bg">#f7f7f7</color>
+    <color name="color_red">#E51C23</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="trans_four">#45000000</color>
+    <color name="color_ffc600">#ffc600</color>
+    <color name="color_13">#131313</color>
+    <color name="color_BlackTran">#87606060</color>
+    <color name="color_c9">#c9c9c9</color>
+    <!--<color name="color_4cbd71">#4cbd71</color>-->
+
+    <!--<color name="color_ffc825">#ffc825</color>-->
+    <!--<color name="color_26A69A">#26A69A</color>-->
+
+    <color name="color_f0f2f5">#f0f2f5</color>
+    <color name="color_eee">#eeeeee</color>
+
+    <color name="color_f6">#f6f6f6</color>
+    <color name="color_withe_tran">#a5cacaca</color>
+    <color name="color_5fbd79">#5fbd79</color>
+    <color name="color_4dbd71">#4dbd71</color>
+    <color name="color_fb7b7a">#fb7b7a</color>
+    <color name="color_b1">#b1b1b1</color>
+    <color name="color_f8">#f8f8f8</color>
+    <color name="color_536DFE">#536DFE</color>
+    <color name="color_ff9800">#ff9800</color>
+    <color name="color_1976D2">#1976D2</color>
+    <color name="color_FFBC61">#FFBC61</color>
+    <color name="color_393A3F">#393A3F</color>
+    <color name="color_18">#181818</color>
+    <color name="color_f5">#F5F5F7</color>
+    <color name="color_62D3D9">#62D3D9</color>
+    <!--<color name="color_086469">#086469</color>-->
+    <color name="color_ed">#ededed</color>
+    <color name="color_ffcdcd">#ffcdcd</color>
+    <!--<color name="color_03a9f4">#03a9f4</color>-->
+    <color name="color_44a449">#44a449</color>
+    <color name="color_009e8f">#009e8f</color>
+    <color name="color_like_blue">#536dfe</color>
+    <color name="color_like_div">#cccccc</color>
+    <color name="color_msg_dark">#575757</color>
+    <color name="color_e5">#e5e5e5</color>
+    <color name="color_comment_bg">#f0eeee</color>
+    <color name="color_btn_backhome_bg">#4dad68</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_ebebeb">#ebebeb</color>
+    <color name="color_write">#FF9800</color>
+    <color name="color_09C3A6">#09C3A6</color>
+    <color name="color_word_light">#e0e0e0</color>
+    <color name="color_line">#e2e2e2</color>
+    <color name="color_search_bg">#F1F2F5</color>
+    <color name="color_bbb">#BBBBBB</color>
+    <color name="color_content_light">#666666</color>
+    <color name="color_content_light_more">#C6BBBB</color>
+    <color name="color_content_yellow">#FF9800</color>
+    <color name="color_content_blue">#47B9F9</color>
+    <color name="color_content_dark">#101010</color>
+    <color name="area_content_bg">#E1EDF5</color>
+    <color name="area_div_bg">#BBBBBB</color>
+    <color name="area_list_bg">#F5F5F5</color>
+    <color name="hint_text_color">#EFEFEF</color>
+    <color name="color_search_rl_bg">#CCCCCC</color>
+    <color name="color_list_bg">#F5F5F5</color>
+
+    <color name="item_text_title_color">#cccccc</color>
+    <color name="item_text_title_bg">#F6F6F6</color>
+    <color name="home_div_bg">#F3F3F3</color>
+
+    <!--<color name="color_cmt_dark">#eeeeee</color>-->
+
+    <!-- 分享-->
+    <!--<color name="umeng_socialize_comments_bg">#F4F4F4</color>-->
+    <color name="umeng_socialize_color_group">#2c3035</color>
+    <!--<color name="umeng_socialize_list_item_textcolor">#333333</color>-->
+    <!--<color name="umeng_socialize_list_item_bgcolor">#FFFFFF</color>-->
+    <!--<color name="umeng_socialize_divider">#E6E6E6</color>-->
+    <!--<color name="umeng_socialize_text_time">#999999</color>-->
+    <!--<color name="umeng_socialize_text_title">#464f61</color>-->
+    <!--<color name="umeng_socialize_text_friends_list">#959696</color>-->
+    <!--<color name="umeng_socialize_text_share_content">#666666</color>-->
+    <!--<color name="umeng_socialize_ucenter_bg">#EEEEEE</color>-->
+    <!--<color name="umeng_socialize_text_ucenter">#595959</color>-->
+    <!--<color name="umeng_socialize_edit_bg">#C4C4C4</color>-->
+    <!--<color name="umeng_socialize_grid_divider_line">#F8F8F8</color>-->
+    <!--<color name="umeng_socialize_web_bg">#F4F4F4</color>-->
+    <color name="umeng_socialize_shareactivity">#D4E0E5</color>
+    <!--<color name="umeng_socialize_shareactivitydefault">#ffffff</color>-->
+    <!-- 分享end-->
+</resources>

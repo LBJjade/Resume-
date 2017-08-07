@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sreach_type">
+        <item>姓名</item>
+        <item>昵称</item>
+        <item>号码</item>
+    </string-array>
+    <string-array name="group_type_test">
+        <item>所有联系人</item>
+        <item>分组一</item>
+        <item>分组二</item>
+    </string-array>
+</resources>
