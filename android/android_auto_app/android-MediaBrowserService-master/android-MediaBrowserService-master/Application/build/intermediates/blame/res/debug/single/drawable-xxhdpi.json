@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_equalizer_white_24dp.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_equalizer_white_24dp.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_default_art.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_default_art.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pause_white_24dp.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_star_on.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_star_on.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_skip_next_white_24dp.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_skip_next_white_24dp.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_shuffle_white_24dp.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_shuffle_white_24dp.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_play_arrow_white_24dp.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_skip_previous_white_24dp.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_skip_previous_white_24dp.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_by_genre.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_by_genre.png"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_star_off.png",
+        "source": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_star_off.png"
+    }
+]

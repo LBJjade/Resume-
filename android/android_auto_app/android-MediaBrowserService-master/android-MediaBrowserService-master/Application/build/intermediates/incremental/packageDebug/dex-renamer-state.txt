@@ -1,0 +1,4 @@
+#Wed Aug 09 15:56:10 CST 2017
+base.0=E\:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

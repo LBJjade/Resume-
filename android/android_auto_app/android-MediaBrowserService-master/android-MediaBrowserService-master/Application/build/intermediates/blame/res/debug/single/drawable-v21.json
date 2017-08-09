@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\min\\AppData\\Local\\Android\\sdk\\.android\\build-cache\\f852b448c05db57886a0acfa895cade2b502b5c5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\min\\AppData\\Local\\Android\\sdk\\.android\\build-cache\\f852b448c05db57886a0acfa895cade2b502b5c5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\min\\AppData\\Local\\Android\\sdk\\.android\\build-cache\\f852b448c05db57886a0acfa895cade2b502b5c5\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\min\\AppData\\Local\\Android\\sdk\\.android\\build-cache\\f852b448c05db57886a0acfa895cade2b502b5c5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\dc15aa1fc47ac66bad8d21091b33590b9e646e73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_6025309a8df0ab4cd533d6e9a2a187d7c9317091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\e3aea88b8c6ececdbc489764634c253be35f05df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_9f513bccf19594991f35c68ac88f4a7e5bff5b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\0f3ff859dcd567d64a27ab055f7cd36eb4f6721c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_42a266a444cb4f213d445ebfe193d03ab9ad48cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_efc70505942b039a6fc526225340c517853ab20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\ee4e130de0fd79db5f0aa73e5fe5e96fbfc3036d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_3a19bb2e9731f877164b9473ce9b633455f9f259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f8ef055ac86dcc06620cd648b666ca4da375083a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_87772533adfc1680da7e1f91f699732dcfa74cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\332d5513867903d3262a34684e20e0184d242926\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_e341221053ddf24de62c02faaddf5cc1d08648db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\a5eab5732b3561b5f1c8b5fa026160ebe0777c43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_e0fbf4a3631118d1e2a96156e21226baf48def2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\46928a0dc4ef3ca1adf210889332073e186d4de5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_4fcd4e292bcaa53c5d2c9f1f8a507663f5d0e2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\9b1d90fb9a07beae77daed4bfc6f2318b1934e5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_69783532d62d7b9958050809869a1d669c143b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f852b448c05db57886a0acfa895cade2b502b5c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_07ee5609a18d4fc9d0484687b5eae053ed373adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\9616d4e77f7fc6bb25f66f0c50c3d6337c901208\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\build\intermediates\pre-dexed\debug\classes_abf4d582db433972691c9d5259f828cc0abb2181.jar" />
+    </item>
+
+</items>

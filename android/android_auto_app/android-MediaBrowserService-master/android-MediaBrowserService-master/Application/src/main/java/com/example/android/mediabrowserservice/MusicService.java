@@ -167,12 +167,16 @@ public class MusicService extends MediaBrowserServiceCompat {
         mMusicProvider = new MusicProvider();
 
         // Start a new MediaSession.
+        //开启一个会话
         mSession = new MediaSessionCompat(this, TAG);
+        //设置令牌
         setSessionToken(mSession.getSessionToken());
+        //增加回调
         mSession.setCallback(new MediaSessionCallback());
         mSession.setFlags(MediaSessionCompat.FLAG_HANDLES_MEDIA_BUTTONS
                 | MediaSessionCompat.FLAG_HANDLES_TRANSPORT_CONTROLS);
 
+        //重放的回调
         mPlayback = new Playback(this, mMusicProvider);
         mPlayback.setCallback(new Playback.Callback() {
             @Override
@@ -198,11 +202,14 @@ public class MusicService extends MediaBrowserServiceCompat {
         // This is an Intent to launch the app's UI, used primarily by the ongoing notification.
         Intent intent = new Intent(context, MusicPlayerActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        //PendingIntent延迟的intent  Intentl立刻马上执行的Intent
         PendingIntent pi = PendingIntent.getActivity(context, REQUEST_CODE, intent,
                 PendingIntent.FLAG_UPDATE_CURRENT);
         mSession.setSessionActivity(pi);
 
+        //通知管理
         mNotificationManager = NotificationManagerCompat.from(this);
+        //接受者
         mAudioBecomingNoisyReceiver = new AudioBecomingNoisyReceiver(this);
 
         updatePlaybackState(null);
@@ -279,12 +286,14 @@ public class MusicService extends MediaBrowserServiceCompat {
     /**
      * Actual implementation of onLoadChildren that assumes that MusicProvider is already
      * initialized.
+     * 实际上的实现类
      */
     private void loadChildrenImpl(@NonNull final String parentMediaId,
                                   final Result<List<MediaBrowserCompat.MediaItem>> result) {
         List<MediaBrowserCompat.MediaItem> mediaItems = new ArrayList<>();
 
         switch (parentMediaId) {
+            //mediaItems.add的地方
             case MEDIA_ID_ROOT:
                 for (MediaMetadataCompat track : mMusicProvider.getAllMusics()) {
                     MediaBrowserCompat.MediaItem bItem =
@@ -315,12 +324,14 @@ public class MusicService extends MediaBrowserServiceCompat {
             // the hierarchy in MediaBrowser and the actual unique musicID. This is necessary
             // so we can build the correct playing queue, based on where the track was
             // selected from.
+            //
             MediaMetadataCompat media = mMusicProvider.getMusic(mediaId);
             if (media != null) {
                 mCurrentMedia =
                         new MediaSessionCompat.QueueItem(media.getDescription(), media.hashCode());
 
                 // play the music
+                //播放音乐
                 handlePlayRequest();
             }
         }

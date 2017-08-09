@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:16:1-87:12
+	package
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:18:11-60
+	android:versionName
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:17:11-57
+	android:versionCode
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:23:22-65
+application
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:25:5-85:19
+MERGED from [com.android.support:support-v13:25.1.1] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\e3aea88b8c6ececdbc489764634c253be35f05df\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\ee4e130de0fd79db5f0aa73e5fe5e96fbfc3036d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f852b448c05db57886a0acfa895cade2b502b5c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f8ef055ac86dcc06620cd648b666ca4da375083a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\0f3ff859dcd567d64a27ab055f7cd36eb4f6721c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\46928a0dc4ef3ca1adf210889332073e186d4de5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\a5eab5732b3561b5f1c8b5fa026160ebe0777c43\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\9b1d90fb9a07beae77daed4bfc6f2318b1934e5e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\332d5513867903d3262a34684e20e0184d242926\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\dc15aa1fc47ac66bad8d21091b33590b9e646e73\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\9616d4e77f7fc6bb25f66f0c50c3d6337c901208\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:28:9-41
+	tools:ignore
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:30:9-82
+	android:allowBackup
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:27:9-45
+	android:theme
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:29:9-40
+meta-data#com.google.android.gms.car.application
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:32:9-34:59
+	android:resource
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:33:13-66
+activity#com.example.android.mediabrowserservice.MusicPlayerActivity
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:37:9-45:20
+	android:label
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:38:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:43:27-74
+meta-data#com.google.android.gms.car.notification.SmallIcon
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:50:9-52:60
+	android:resource
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:52:13-57
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:51:13-77
+meta-data#com.google.android.gms.car.application.theme
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:59:9-61:50
+	android:resource
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:61:13-47
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:60:13-72
+service#com.example.android.mediabrowserservice.MusicService
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:63:9-69:19
+	android:exported
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:65:13-36
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:64:13-41
+intent-filter#android.media.browse.MediaBrowserService
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:66:13-68:29
+action#android.media.browse.MediaBrowserService
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:67:17-83
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:67:25-80
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:79:9-83:20
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:79:19-86
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:80:13-82:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:81:17-77
+	android:name
+		ADDED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml:81:25-74
+uses-sdk
+INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.1.1] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\e3aea88b8c6ececdbc489764634c253be35f05df\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\ee4e130de0fd79db5f0aa73e5fe5e96fbfc3036d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f852b448c05db57886a0acfa895cade2b502b5c5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f8ef055ac86dcc06620cd648b666ca4da375083a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\0f3ff859dcd567d64a27ab055f7cd36eb4f6721c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\46928a0dc4ef3ca1adf210889332073e186d4de5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\a5eab5732b3561b5f1c8b5fa026160ebe0777c43\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\9b1d90fb9a07beae77daed4bfc6f2318b1934e5e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\332d5513867903d3262a34684e20e0184d242926\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\dc15aa1fc47ac66bad8d21091b33590b9e646e73\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\9616d4e77f7fc6bb25f66f0c50c3d6337c901208\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.1.1] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\e3aea88b8c6ececdbc489764634c253be35f05df\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\mymd\new\android\android_auto_app\android-MediaBrowserService-master\android-MediaBrowserService-master\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f852b448c05db57886a0acfa895cade2b502b5c5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f8ef055ac86dcc06620cd648b666ca4da375083a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\0f3ff859dcd567d64a27ab055f7cd36eb4f6721c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\46928a0dc4ef3ca1adf210889332073e186d4de5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\a5eab5732b3561b5f1c8b5fa026160ebe0777c43\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\9b1d90fb9a07beae77daed4bfc6f2318b1934e5e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\332d5513867903d3262a34684e20e0184d242926\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\dc15aa1fc47ac66bad8d21091b33590b9e646e73\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\9616d4e77f7fc6bb25f66f0c50c3d6337c901208\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f852b448c05db57886a0acfa895cade2b502b5c5\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\min\AppData\Local\Android\sdk\.android\build-cache\f852b448c05db57886a0acfa895cade2b502b5c5\output\AndroidManifest.xml:26:9-47

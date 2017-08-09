@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\min\\AppData\\Local\\Android\\sdk\\.android\\build-cache\\f852b448c05db57886a0acfa895cade2b502b5c5\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\min\\AppData\\Local\\Android\\sdk\\.android\\build-cache\\f852b448c05db57886a0acfa895cade2b502b5c5\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\min\\AppData\\Local\\Android\\sdk\\.android\\build-cache\\f852b448c05db57886a0acfa895cade2b502b5c5\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\mymd\\new\\android\\android_auto_app\\android-MediaBrowserService-master\\android-MediaBrowserService-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\min\\AppData\\Local\\Android\\sdk\\.android\\build-cache\\f852b448c05db57886a0acfa895cade2b502b5c5\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
